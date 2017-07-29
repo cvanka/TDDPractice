@@ -1,7 +1,7 @@
 
 testing git
 
-another check of merge
+another check of mergekjlkjljlk
 
 testing git from repo
 
