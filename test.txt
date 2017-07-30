@@ -1,6 +1,6 @@
 4444555566667777888899
 testing git
-my test of merge
+my test your wish of merge
 another check of mergekjlkjljlk
 
 testing git from repo
